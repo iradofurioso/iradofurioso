@@ -8,6 +8,10 @@ React, PHP and Python. Currently learning Web 3.0 technologies such as
 Blockchain, Smart-Contracts, Solidity, dAPP, etc. I am always learning. 
 Proudly working as Developer Tools Analyst at <strong>@ExxonMobil</strong>.
 
+<h2>Think About</h2>
+"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." 
+Martin Fowler
+
 <h2>⚡️ A Few Quick Facts</h2>
 
 - 🔭 I’m currently working at <strong>ExxonMobil</strong>.
