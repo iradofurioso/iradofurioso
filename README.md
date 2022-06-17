@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">
 
 [![Linkedin Badge](https://img.shields.io/badge/-carlosbr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosbr/)](https://www.linkedin.com/in/carlosbr/)
 [![Gmail Badge](https://img.shields.io/badge/-carlosedasilva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosedasilva@gmail.com)](mailto:carlosedasilva@gmail.com)
