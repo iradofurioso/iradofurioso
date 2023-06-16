@@ -3,10 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-carlosbr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosbr/)](https://www.linkedin.com/in/carlosbr/)
 [![Gmail Badge](https://img.shields.io/badge/-carlosedasilva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosedasilva@gmail.com)](mailto:carlosedasilva@gmail.com)
 
-Full-stack software engineer experienced in Node.JS, TypeScript, Angular, 
-React, PHP and Python. Currently learning Web 3.0 technologies such as 
-Blockchain, Smart-Contracts, Solidity, dAPP, etc. I am always learning. 
-Proudly working as Developer Tools Analyst at <strong>@ExxonMobil</strong>.
+Experienced software engineer specializing in full-stack development with expertise in Node.js, TypeScript, Angular, React, PHP, and Python. Passionate about building robust and scalable applications, I have a strong foundation in software engineering. In addition to my technical skills, I bring a unique perspective to my work with a background in linguistics. I hold an undergraduate degree in linguistics, a post-graduate master's degree in Corpus-based Translation Studies, specialization in Software Engineering, and a Ph.D. in language studies focused on Natural Language Processing, and Computational Linguistics. This combination of technical proficiency and linguistic expertise allows me to bring a holistic approach to software development projects specially cognitive technologies dealing with natural language. Currently working as Developer Tools Analyst and participating in proof-of-concept (PoC) research of new technologies at <strong>@ExxonMobil</strong>.
 
 <h2>Think About</h2>
 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." 
