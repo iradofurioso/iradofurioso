@@ -9,6 +9,9 @@ Experienced software engineer specializing in full-stack development with expert
 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." 
 Martin Fowler
 
+"done is better than perfect".
+Sheryl Sandberg - COO of Facebook
+
 <h2>⚡️ A Few Quick Facts</h2>
 
 - 🔭 I’m currently working at <strong>ExxonMobil</strong>.
