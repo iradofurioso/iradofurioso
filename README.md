@@ -3,7 +3,36 @@
 [![Linkedin Badge](https://img.shields.io/badge/-carlosbr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosbr/)](https://www.linkedin.com/in/carlosbr/)
 [![Gmail Badge](https://img.shields.io/badge/-carlosedasilva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosedasilva@gmail.com)](mailto:carlosedasilva@gmail.com)
 
-Experienced software engineer specializing in full-stack development with expertise in Node.js, TypeScript, Angular, React, PHP, Python, and Web3 - SmartContracts. Passionate about building robust and scalable applications, I have a strong foundation in software engineering. In addition to my technical skills, I bring a unique perspective to my work with a background in linguistics. I hold an undergraduate degree in linguistics, a post-graduate master's degree in Corpus-based Translation Studies, specialization in Software Engineering, and a Ph.D. in language studies focused on Natural Language Processing, and Computational Linguistics. This combination of technical proficiency and linguistic expertise allows me to bring a holistic approach to software development projects specially cognitive technologies dealing with natural language. Currently working as Developer Tools Analyst and participating in proof-of-concept (PoC) research of new technologies at <strong>@ExxonMobil</strong>.
+146
+
+```javascript
+{
+  "name": "Your Name",
+  "title": "Experienced Software Engineer",
+  "specialties": ["Node.js", "TypeScript", "Angular", "React", "PHP", "Python", "Web3 - SmartContracts"],
+  "passion": "Passionate about building robust and scalable applications.",
+  "background": "Strong foundation in software engineering with a background in linguistics.",
+  "education": [
+    {
+      "degree": "Undergraduate degree in Linguistics"
+    },
+    {
+      "degree": "Post-graduate master's degree in Corpus-based Translation Studies"
+    },
+    {
+      "degree": "Ph.D. in Language Studies focused on Natural Language Processing and Computational Linguistics"
+    }
+  ],
+  "experience": [
+    {
+      "position": "Developer Tools Analyst",
+      "company": "@MYCOMPANY",
+      "details": "Participating in proof-of-concept (PoC) research of new technologies."
+    }
+  ]
+}
+
+```
 
 <h2>Think About</h2>
 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." 
