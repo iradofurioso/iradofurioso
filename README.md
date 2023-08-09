@@ -3,9 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-carlosbr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosbr/)](https://www.linkedin.com/in/carlosbr/)
 [![Gmail Badge](https://img.shields.io/badge/-carlosedasilva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosedasilva@gmail.com)](mailto:carlosedasilva@gmail.com)
 
-146
+Tech-savvy Software Engineer with expertise in Node.js, TypeScript, Python, PHP, and more. I hold advanced degrees, including a Ph.D. that interfaces between linguistics and technology. Crafting code at @ExxonMobil, I'm weaving innovation into reality.
 
-```javascript
+```json
 {
   "name": "Your Name",
   "title": "Experienced Software Engineer",
