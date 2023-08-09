@@ -7,7 +7,7 @@ Tech-savvy Software Engineer with expertise in Node.js, TypeScript, Python, PHP,
 
 ```json
 {
-  "name": "Your Name",
+  "name": "Carlos Eduardo",
   "title": "Experienced Software Engineer",
   "specialties": ["Node.js", "TypeScript", "Angular", "React", "PHP", "Python", "Web3 - SmartContracts"],
   "passion": "Passionate about building robust and scalable applications.",
@@ -26,7 +26,7 @@ Tech-savvy Software Engineer with expertise in Node.js, TypeScript, Python, PHP,
   "experience": [
     {
       "position": "Developer Tools Analyst",
-      "company": "@MYCOMPANY",
+      "company": "@ExxonMobil",
       "details": "Participating in proof-of-concept (PoC) research of new technologies."
     }
   ]
