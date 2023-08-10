@@ -79,7 +79,9 @@ Sheryl Sandberg - COO of Facebook
 
 - E-mail: [carlosedasilva@gmail.com](mailto:carlosedasilva@gmail.com)
 
-Last Updated on 19/02/2022 16:58:40 UTC
+PS: In case you are using this profile template or structure, please don't forget to give a star or follow me here.
+
+Last Updated on 09/08/2023 16:58:40 UTC
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
